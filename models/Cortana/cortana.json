@@ -3,7 +3,7 @@
   "wake_word": "cortana",
   "author": "Istvan Pinter",
   "website": "https://github.com/fantnhu/micro-wake-word/tree/main/models/",
-  "model": "cortana.tflite",
+  "model": "./cortana.tflite",
   "version": 1.505002,
   "micro": {
     "probability_cutoff": 0.5,
