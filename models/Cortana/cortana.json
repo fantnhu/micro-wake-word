@@ -1,0 +1,12 @@
+{
+  "type": "micro",
+  "wake_word": "cortana",
+  "author": "Istvan Pinter",
+  "website": "https://github.com/fantnhu/micro-wake-word/tree/main/models/",
+  "model": "./cortana.tflite",
+  "version": 50.50.02,
+  "micro": {
+    "probability_cutoff": 0.5,
+    "sliding_window_average_size": 10
+  }
+}
